@@ -4,8 +4,6 @@ A data-driven decision-support tool that scores and ranks Dubai districts by how
 for opening a new **commercial office**, built from public Dubai Land Department (DLD) and Ejari data
 plus a stakeholder priority survey.
 
-Built for **CSCI323 Modern Artificial Intelligence**, University of Wollongong Dubai (Spring 2026).
-
 ---
 
 ## What it does
@@ -65,7 +63,7 @@ These are Dubai's established commercial cores — reasonable face validity.
 ```
 .
 ├── DATA/
-│   ├── FINAL_DATASET.csv               # engineered, scored dataset (165 districts)
+│   ├── FINAL_DATASET_FINAL.csv               # engineered, scored dataset (165 districts)
 │   ├── FINAL_TRANSACTION1.1.csv        # DLD aggregates (price, value, volume, parking, proximity)
 │   ├── rents_preprocessed_final1.0.csv # cleaned Ejari office contracts
 │   ├── survey_responses.xlsx / survey.csv  # client feature-priority survey
@@ -88,7 +86,8 @@ These are Dubai's established commercial cores — reasonable face validity.
 ---
 
 ## How to run
-
+THE DATASET IS UPLOADED ON DRIVE 
+https://drive.google.com/drive/folders/1iYGrKL19cvJ_-lNrIPpj5EA_NK7K_VWV?usp=drive_link 
 The notebooks were developed on **Google Colab** with data in Google Drive. Run in order:
 
 ```
@@ -134,7 +133,4 @@ Each notebook has a `DATA_PATH` / load cell near the top — point it at whereve
 - **Ejari** — office rental contracts (rent, contract volume)
 - **Client survey** — feature-priority weighting (1–10 per factor)
 
-## Team
 
-Five students, University of Wollongong Dubai — CSCI323 Modern Artificial Intelligence, Spring 2026.
-Instructors: Dr. Milan Dordevic, Dr. Abdullah El Nokiti.
