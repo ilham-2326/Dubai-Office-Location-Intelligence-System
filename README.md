@@ -3,6 +3,9 @@
 A data-driven decision-support tool that scores and ranks Dubai districts by how attractive they are
 for opening a new **commercial office**, built from public Dubai Land Department (DLD) and Ejari data
 plus a stakeholder priority survey.
+streamlit link : 
+
+https://dubai-office-location-intelligence-system-b6ljdr7wda5zqcak4mxu.streamlit.app/
 
 ---
 
