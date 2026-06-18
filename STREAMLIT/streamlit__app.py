@@ -217,4 +217,6 @@ with tab3:
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
-           "Data: Dubai Land Department & Ejari · Scores are a decision-support index, not a prediction.")
+st.caption(
+    "Data: Dubai Land Department & Ejari · Scores are a decision-support index, not a prediction."
+)
