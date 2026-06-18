@@ -44,7 +44,7 @@ section[data-testid="stSidebar"] * {{ color:#eaf0f7 !important; }}
 st.markdown(f"""
 <div class="hero">
   <h1>🏙️ Dubai Commercial Office Hotspot Recommender</h1>
-  <p>Decision-support scoring across 165 Dubai districts • CSCI323 — University of Wollongong Dubai</p>
+  <p>Decision-support scoring across 165 Dubai districts </p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -217,5 +217,4 @@ with tab3:
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
-st.caption("CSCI323 Modern Artificial Intelligence — University of Wollongong Dubai, Spring 2026 · "
            "Data: Dubai Land Department & Ejari · Scores are a decision-support index, not a prediction.")
