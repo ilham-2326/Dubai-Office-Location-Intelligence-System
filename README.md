@@ -5,8 +5,8 @@ for opening a new **commercial office**, built from public Dubai Land Department
 plus a stakeholder priority survey.
 streamlit link : 
 
-https://dubai-office-location-intelligence-system-b6ljdr7wda5zqcak4mxu.streamlit.app/
-
+[https://dubai-office-location-intelligence-system-b6ljdr7wda5zqcak4mxu.streamlit.app/
+](https://323groupproject-28u9xhvgfvijl2h4ksquou.streamlit.app/)
 ---
 
 ## What it does
